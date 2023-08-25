@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <p align="center">
-  <Border CornerRadius = "100">
-  <img useLayoutRounding="True" src="https://github.com/Karthik7013/WeatherApp/blob/main/images/1.jpg?raw=true" width="120px" style="border-radius: 50%;">
-  </Border>
+  <img  src="https://ik.imagekit.io/ybyfbcvb8/1-modified.png?updatedAt=1692949200538" width="120px" >
 </p>
 
 <h3 align="center">A passionate frontend developer from India</h3>
