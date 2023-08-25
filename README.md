@@ -2,6 +2,11 @@
 <p align="center">
   <img  src="https://ik.imagekit.io/ybyfbcvb8/1-modified.png?updatedAt=1692949200538" width="120px" >
 </p>
+<p align="center">
+    <img  src="https://ik.imagekit.io/ybyfbcvb8/18_53_19%20(1).png?updatedAt=1692883894397"  >
+</p>
+
+
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
