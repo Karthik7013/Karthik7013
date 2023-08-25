@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently learning **React.js | mongoDB**
 
-- 🚀 All of my projects are available at [https://github.com/Karthik7013](https://github.com/Karthik7013)
+- 🚀 All of my projects are available at [https://github.com/Karthik7013](https://github.com/Karthik7013?tab=repositories)
 
 - 📬 How to reach me **karthiktumala143@gmail.com**
 
