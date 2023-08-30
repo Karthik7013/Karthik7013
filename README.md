@@ -1,6 +1,8 @@
 <p align="center">
     <img  src="https://ik.imagekit.io/ybyfbcvb8/profile-banner.png?updatedAt=1692963315657"  >
 </p>
+![qw](https://github.com/Karthik7013/Karthik7013/assets/113322353/70e76c6c-731a-41c6-87ae-ad33a3a1c1e1)
+
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
