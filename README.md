@@ -3,7 +3,7 @@
 </p>
 <!-- ![qw](https://github.com/Karthik7013/Karthik7013/assets/113322353/70e76c6c-731a-41c6-87ae-ad33a3a1c1e1) -->
 <p align="center">
-    <img width="180px" src="https://github.com/Karthik7013/Karthik7013/assets/113322353/70e76c6c-731a-41c6-87ae-ad33a3a1c1e1" />
+    <img width="140px" src="https://github.com/Karthik7013/Karthik7013/assets/113322353/70e76c6c-731a-41c6-87ae-ad33a3a1c1e1" />
 </p>
 
 
