@@ -37,7 +37,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-<h3 align="left">Stat's</h3>
+<h3 align="left">My Github Stat's</h3>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Karthik7013&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik7013&layout=compact"/>
