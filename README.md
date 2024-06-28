@@ -1,18 +1,19 @@
-<p align="center">
-    <img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  >
-</p>
+
 
 <p align="center">
     <img  src="https://ik.imagekit.io/ybyfbcvb8/profile-banner.png?updatedAt=1692963315657"  >
 </p>
 
-<!-- ![qw](https://github.com/Karthik7013/Karthik7013/assets/113322353/70e76c6c-731a-41c6-87ae-ad33a3a1c1e1) -->
+![visitor_badge](https://vbr.nathanchung.dev/badge?page_id=Karthik7013&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=false)
+
 <p align="center">
     <img width="140px" src="https://github.com/Karthik7013/Karthik7013/assets/113322353/70e76c6c-731a-41c6-87ae-ad33a3a1c1e1" />
 </p>
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  >
 
 - 👨‍💻 I’m currently learning **React.js | mongoDB**
 
@@ -38,11 +39,11 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 <h3 align="left">My Github Stat's</h3>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Karthik7013&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik7013&theme=tokyonight" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Karthik7013&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
-    <img  src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/terminal.gif"  >
-    
+    <img  src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/terminal.gif">
