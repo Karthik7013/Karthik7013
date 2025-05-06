@@ -5,6 +5,7 @@
 </p>
 
 ![visitor_badge](https://vbr.nathanchung.dev/badge?page_id=Karthik7013&lcolor=fff&color=000&style=for-the-badge&logo=Github&logoColor=181717&hit=false)
+![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
 <p align="center">
     <img width="140px" src="https://github.com/Karthik7013/Karthik7013/assets/113322353/70e76c6c-731a-41c6-87ae-ad33a3a1c1e1" />
