@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER CAPSULE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tumala%20Karthik&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tumala%20Karthik&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descSize=18&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&multiline=false&width=600&lines=Turning+coffee+into+clean+UI+%E2%98%95;React+%7C+Node.js+%7C+TypeScript+%7C+Docker;Currently+learning+Next.js+%2B+AWS+%F0%9F%9A%80;Open+to+collaborations+%26+cool+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
